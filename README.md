@@ -1,8 +1,10 @@
-- 👋 Hi, I’m Nehal!
-- 👀 I’m interested in Programming in different languages
-- 🌱 I’m currently learning Web Development - Front-End & Back-End
-- 💞️ I’m looking to collaborate on my Work Profile as well as Jobs 
-- 📫 How to reach me at pawar292nehal@gmail.com
+- Hi I am Nehal Pawar
+- Web Developer | Programmer | 
+- Pursuing my BTech Degree at MIT Academy of Engineering with Information Technology as specialization.
+-  I’m interested in Internships and Jobs related to Programming and working on Projects.
+-  I’m currently learning Web Development - Front-End & learning Back-End currently
+- Reach me at:
+-  Email: pawar292nehal@gmail.com
 -
 
 <!---
